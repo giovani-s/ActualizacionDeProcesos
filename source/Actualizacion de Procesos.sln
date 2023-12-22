@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actualizacion de Procesos", "Actualizacion de Procesos.csproj", "{78F30480-1861-4693-88F7-674029006FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F30480-1861-4693-88F7-674029006FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F30480-1861-4693-88F7-674029006FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F30480-1861-4693-88F7-674029006FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F30480-1861-4693-88F7-674029006FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25BE38AD-5B16-4454-ACA9-3086BCD058B0}
+	EndGlobalSection
+EndGlobal
