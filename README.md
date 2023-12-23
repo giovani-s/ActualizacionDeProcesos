@@ -13,8 +13,8 @@ Con el objetivo de simplificar el uso de los libros de excel para dicha tarea he
 - Guardar por separado la informacion perteneciente al proceso y los datos del proceso actual seleccionado.
 
 ![screenshot](/screenshot.png)
-- [Enlace al Binario](/Actualizacion de Procesos.exe)
-- [Descargar Excel de Demostración](/Revision procesos Abogado 2023.xlsx)
+- [Enlace al Binario](https://github.com/giovani-s/ActualizacionDeProcesos/blob/main/Actualizacion%20de%20Procesos.exe)
+- [Descargar Excel de Demostración](https://github.com/giovani-s/ActualizacionDeProcesos/blob/main/Revision%20procesos%20Abogado%202023.xlsx)
 
 ## Motivación y Aprendizaje
 
