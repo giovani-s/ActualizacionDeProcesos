@@ -12,10 +12,9 @@ Con el objetivo de simplificar el uso de los libros de excel para dicha tarea he
 - Agregar automaticamente la fecha del dia actual con una nueva novedad por defecto (util para disminuir la cantidad de texto y tiempo requeridos para esta tarea)
 - Guardar por separado la informacion perteneciente al proceso y los datos del proceso actual seleccionado.
 
-IMAGEN
-
-- [Enlace al Binario](URL_DEL_BINARIO)
-- [Descargar Excel de Demostración](URL_DEL_EXCEL_DE_DEMOSTRACION)
+![screenshot](/screenshot.png)
+- [Enlace al Binario](/Actualizacion de Procesos.exe)
+- [Descargar Excel de Demostración](/Revision procesos Abogado 2023.xlsx)
 
 ## Motivación y Aprendizaje
 
