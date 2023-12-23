@@ -4,7 +4,7 @@ Actualizacion de procesos es un pequeño software desarrollado con el objetivo d
 
 Con el objetivo de simplificar el uso de los libros de excel para dicha tarea he desarrollado esta pequeña aplicacion que utiliza la interoperabilidad de C#/Net. Framework 4.7.2 para implementar una interfaz grafica basado en Formularios del mismo framework. 
 
-##Cuenta con las siguientes caracteristicas:
+## Cuenta con las siguientes caracteristicas:
 - Cargar los archivos de excel con el formato definido por el despacho de abogados para este fin.
 - Agregar nuevos procesos al documento (estos estan separados por hojas en el libro de excel).
 - Agregar nuevas novedades del los procesos en un dataGrid el cual permite edicion manual.
